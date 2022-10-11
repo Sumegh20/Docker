@@ -3,8 +3,9 @@
 ### Task 1 (Demonstrate minimum 15 basic docker command with explanation and screenshot.)
 
 1. `docker pull docker/getting-started`
+
 Command is used pull a docker image from the docker hub.
-![](img\Docker_command_1.PNG)
+![](\img\Docker_command_1.PNG)
 
 2. `docker images`
 Command is used to list all the docker images available locally in your system.

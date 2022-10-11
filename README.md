@@ -18,6 +18,7 @@ Command is used to list all the docker images available locally in your system.
 docker run -d -p 80:80 docker/getting-started
 ```
 Command is used to run the docker/getting-started image in the locally. the first 80 is the host port and the last 80 is the container port.
+
 ![image](https://github.com/Sumegh20/Docker/blob/main/img/Docker_command_3_part_1.PNG)
 ![image](https://github.com/Sumegh20/Docker/blob/main/img/Docker_command_3_part_2.PNG)
 

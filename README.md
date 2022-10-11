@@ -102,3 +102,6 @@ Show changes to files (or directories) on a filesystem.
 ### Task 3 (Create a hello world fastapi application. Create a Dockerfile for your fastapi hello world application. Build Docker image using Docker file. Run docker image build in previous step. Push your Docker image to Docker Hub.)
 This is the docker hub link [sumegh20/hello-world-app](https://hub.docker.com/repository/docker/sumegh20/hello-world-app)
 ![image](https://github.com/Sumegh20/Docker/blob/main/img/Assignment_2.PNG)
+
+### Task 4 (Automatically Build & Push Docker Images into Docker Hub Using GitHub Action)
+[Github Action File](https://github.com/Sumegh20/Docker/blob/main/.github/workflows/main.yml)
